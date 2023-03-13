@@ -1,0 +1,24 @@
+{
+  "name": "@meewmeew/tsconfig",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Shared TypeScript config for my projects",
+  "repository": "MeewMeew/tsconfig",
+  "author": "Nguyen Mau Minh",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "config",
+    "shared"
+  ]
+}
