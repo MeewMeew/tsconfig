@@ -35,7 +35,7 @@ When you are targeting a higher version of Node.js, check the relevant ECMAScrip
 	"extends": "@meewmeew/tsconfig",
 	"compilerOptions": {
 		"outDir": "build",
-		"target": "ES2021"
+		"target": "ES2023"
 	}
 }
 ```

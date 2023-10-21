@@ -1,13 +1,13 @@
 {
   "name": "@meewmeew/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Shared TypeScript config for my projects",
   "repository": "MeewMeew/tsconfig",
-  "author": "Nguyen Mau Minh",
+  "author": "MeewMeew",
   "main": "tsconfig.json",
   "engines": {
-    "node": ">=16"
+    "node": ">=18.x"
   },
   "files": [
     "tsconfig.json"
